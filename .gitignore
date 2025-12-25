@@ -1,0 +1,8 @@
+# MATLAB generated folders and files
+bin/
+build/
+dist/
+*.asv
+*.mex*
+*.slxc
+*.mat
