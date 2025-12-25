@@ -23,4 +23,4 @@ Hardware application on **TurtleBot3** platforms using:
 - **Vision:** Overhead camera for AprilTag detection (172mm tags).
 
 ## 🎓 Academic Background
-This work was developed as part of my Master's thesis in Mechatronics at [Your University Name]. It serves as a bridge between advanced control theory and practical robotic swarms.
+This work was developed as part of my Master's thesis in Mechatronics at Sabanci University. It serves as a bridge between advanced control theory and practical robotic swarms.
